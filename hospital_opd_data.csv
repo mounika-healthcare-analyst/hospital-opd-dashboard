@@ -1,0 +1,146 @@
+Patient_ID,Patient_Name,Age,Gender,Department,Doctor_Name,Visit_Date,Visit_Type,Diagnosis_Category,Consultation_Fee,State,City,Insurance_Type,Wait_Time_Mins
+P001,Rahul Sharma,34,Male,General Medicine,Dr. Priya Reddy,2023-01-03,New Patient,Respiratory,300,Telangana,Hyderabad,Private,25
+P002,Anjali Singh,28,Female,Dental,Dr. Suresh Kumar,2023-01-04,New Patient,Dental Caries,500,Telangana,Hyderabad,None,15
+P003,Mohammed Farhan,45,Male,Cardiology,Dr. Lakshmi Nair,2023-01-05,Follow Up,Hypertension,800,Telangana,Hyderabad,Government,40
+P004,Sunita Patel,52,Female,Orthopaedics,Dr. Anil Mehta,2023-01-06,New Patient,Arthritis,600,Andhra Pradesh,Vijayawada,Private,30
+P005,Venkat Rao,38,Male,General Medicine,Dr. Priya Reddy,2023-01-07,Follow Up,Diabetes,300,Telangana,Hyderabad,None,20
+P006,Deepa Krishnan,29,Female,Gynaecology,Dr. Meena Iyer,2023-01-09,New Patient,Routine Checkup,700,Karnataka,Bangalore,Private,35
+P007,Arjun Nair,61,Male,Cardiology,Dr. Lakshmi Nair,2023-01-10,Follow Up,Heart Disease,800,Telangana,Hyderabad,Government,45
+P008,Kavitha Reddy,41,Female,Dental,Dr. Suresh Kumar,2023-01-11,New Patient,Gum Disease,500,Telangana,Hyderabad,Private,10
+P009,Sanjay Gupta,33,Male,Orthopaedics,Dr. Anil Mehta,2023-01-12,New Patient,Back Pain,600,Telangana,Hyderabad,None,25
+P010,Lakshmi Devi,55,Female,General Medicine,Dr. Priya Reddy,2023-01-13,Follow Up,Thyroid,300,Andhra Pradesh,Guntur,Government,20
+P011,Ravi Teja,27,Male,General Medicine,Dr. Ravi Shankar,2023-01-16,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P012,Pooja Sharma,36,Female,Gynaecology,Dr. Meena Iyer,2023-01-17,Follow Up,Anaemia,700,Telangana,Hyderabad,Private,30
+P013,Kiran Kumar,48,Male,Cardiology,Dr. Lakshmi Nair,2023-01-18,New Patient,Chest Pain,800,Karnataka,Bangalore,Private,50
+P014,Swathi Reddy,31,Female,Dental,Dr. Suresh Kumar,2023-01-19,New Patient,Root Canal,500,Telangana,Hyderabad,None,20
+P015,Naresh Babu,58,Male,Orthopaedics,Dr. Anil Mehta,2023-01-20,Follow Up,Knee Pain,600,Andhra Pradesh,Vijayawada,Government,35
+P016,Anitha Rao,44,Female,General Medicine,Dr. Priya Reddy,2023-02-01,New Patient,Diabetes,300,Telangana,Hyderabad,Private,20
+P017,Suresh Reddy,39,Male,Cardiology,Dr. Lakshmi Nair,2023-02-02,Follow Up,Hypertension,800,Telangana,Hyderabad,None,40
+P018,Padma Lakshmi,26,Female,Gynaecology,Dr. Meena Iyer,2023-02-03,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P019,Vijay Kumar,53,Male,Orthopaedics,Dr. Anil Mehta,2023-02-06,New Patient,Hip Pain,600,Karnataka,Mysore,None,30
+P020,Rekha Singh,47,Female,Dental,Dr. Suresh Kumar,2023-02-07,Follow Up,Dental Caries,500,Telangana,Hyderabad,Government,15
+P021,Arun Prasad,35,Male,General Medicine,Dr. Ravi Shankar,2023-02-08,New Patient,Respiratory,300,Andhra Pradesh,Vizag,Private,20
+P022,Nirmala Devi,62,Female,Cardiology,Dr. Lakshmi Nair,2023-02-09,Follow Up,Heart Disease,800,Telangana,Hyderabad,Government,45
+P023,Praveen Reddy,29,Male,Dental,Dr. Suresh Kumar,2023-02-10,New Patient,Tooth Extraction,500,Telangana,Hyderabad,None,10
+P024,Shalini Kumari,38,Female,Gynaecology,Dr. Meena Iyer,2023-02-13,Follow Up,Anaemia,700,Telangana,Hyderabad,Private,30
+P025,Ramesh Babu,56,Male,Orthopaedics,Dr. Anil Mehta,2023-02-14,New Patient,Arthritis,600,Andhra Pradesh,Guntur,None,25
+P026,Usha Rani,43,Female,General Medicine,Dr. Priya Reddy,2023-02-15,Follow Up,Thyroid,300,Telangana,Hyderabad,Private,20
+P027,Kishore Kumar,31,Male,Cardiology,Dr. Lakshmi Nair,2023-02-16,New Patient,Chest Pain,800,Karnataka,Bangalore,None,50
+P028,Madhavi Latha,49,Female,Dental,Dr. Suresh Kumar,2023-02-17,Follow Up,Gum Disease,500,Telangana,Hyderabad,Government,15
+P029,Satish Rao,37,Male,General Medicine,Dr. Ravi Shankar,2023-02-20,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P030,Bhavani Devi,54,Female,Orthopaedics,Dr. Anil Mehta,2023-02-21,Follow Up,Knee Pain,600,Andhra Pradesh,Vijayawada,Private,35
+P031,Ganesh Reddy,42,Male,General Medicine,Dr. Priya Reddy,2023-03-01,New Patient,Diabetes,300,Telangana,Hyderabad,None,20
+P032,Sarala Devi,33,Female,Gynaecology,Dr. Meena Iyer,2023-03-02,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P033,Naveen Kumar,46,Male,Cardiology,Dr. Lakshmi Nair,2023-03-03,Follow Up,Hypertension,800,Telangana,Hyderabad,Government,40
+P034,Jyothi Reddy,28,Female,Dental,Dr. Suresh Kumar,2023-03-06,New Patient,Dental Caries,500,Karnataka,Bangalore,None,15
+P035,Manoj Kumar,51,Male,Orthopaedics,Dr. Anil Mehta,2023-03-07,New Patient,Back Pain,600,Telangana,Hyderabad,Private,30
+P036,Vasantha Devi,39,Female,General Medicine,Dr. Ravi Shankar,2023-03-08,Follow Up,Respiratory,300,Andhra Pradesh,Vizag,None,20
+P037,Srikanth Rao,44,Male,Cardiology,Dr. Lakshmi Nair,2023-03-09,New Patient,Heart Disease,800,Telangana,Hyderabad,Private,50
+P038,Lalitha Kumari,57,Female,Dental,Dr. Suresh Kumar,2023-03-10,Follow Up,Root Canal,500,Telangana,Hyderabad,Government,20
+P039,Rajesh Sharma,32,Male,General Medicine,Dr. Priya Reddy,2023-03-13,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P040,Kamala Devi,48,Female,Gynaecology,Dr. Meena Iyer,2023-03-14,Follow Up,Anaemia,700,Andhra Pradesh,Guntur,Private,30
+P041,Sunil Kumar,36,Male,Orthopaedics,Dr. Anil Mehta,2023-03-15,New Patient,Hip Pain,600,Telangana,Hyderabad,None,25
+P042,Radha Krishna,63,Male,Cardiology,Dr. Lakshmi Nair,2023-03-16,Follow Up,Heart Disease,800,Telangana,Hyderabad,Government,45
+P043,Sunanda Rao,41,Female,Dental,Dr. Suresh Kumar,2023-03-17,New Patient,Gum Disease,500,Karnataka,Mysore,Private,10
+P044,Ashok Reddy,55,Male,General Medicine,Dr. Ravi Shankar,2023-03-20,Follow Up,Diabetes,300,Telangana,Hyderabad,None,20
+P045,Meenakshi Devi,30,Female,Gynaecology,Dr. Meena Iyer,2023-03-21,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P046,Harish Kumar,43,Male,General Medicine,Dr. Priya Reddy,2023-04-03,New Patient,Hypertension,300,Telangana,Hyderabad,None,20
+P047,Triveni Devi,37,Female,Dental,Dr. Suresh Kumar,2023-04-04,Follow Up,Dental Caries,500,Andhra Pradesh,Vijayawada,Private,15
+P048,Prasad Rao,59,Male,Cardiology,Dr. Lakshmi Nair,2023-04-05,Follow Up,Heart Disease,800,Telangana,Hyderabad,Government,45
+P049,Sujatha Kumari,34,Female,Orthopaedics,Dr. Anil Mehta,2023-04-06,New Patient,Arthritis,600,Telangana,Hyderabad,Private,30
+P050,Mahesh Babu,27,Male,General Medicine,Dr. Ravi Shankar,2023-04-07,New Patient,Fever,300,Karnataka,Bangalore,None,15
+P051,Padmavathi,52,Female,Gynaecology,Dr. Meena Iyer,2023-04-10,Follow Up,Anaemia,700,Telangana,Hyderabad,Government,30
+P052,Venkatesh Rao,46,Male,Cardiology,Dr. Lakshmi Nair,2023-04-11,New Patient,Chest Pain,800,Telangana,Hyderabad,None,50
+P053,Hema Latha,29,Female,Dental,Dr. Suresh Kumar,2023-04-12,New Patient,Tooth Extraction,500,Andhra Pradesh,Vizag,Private,10
+P054,Nagaraju,61,Male,Orthopaedics,Dr. Anil Mehta,2023-04-13,Follow Up,Knee Pain,600,Telangana,Hyderabad,Government,35
+P055,Savithri Devi,38,Female,General Medicine,Dr. Priya Reddy,2023-04-14,New Patient,Thyroid,300,Telangana,Hyderabad,Private,20
+P056,Ramu Yadav,33,Male,General Medicine,Dr. Ravi Shankar,2023-05-02,New Patient,Respiratory,300,Telangana,Hyderabad,None,15
+P057,Kamakshi,45,Female,Gynaecology,Dr. Meena Iyer,2023-05-03,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P058,Bhaskar Rao,54,Male,Cardiology,Dr. Lakshmi Nair,2023-05-04,Follow Up,Hypertension,800,Karnataka,Bangalore,Government,40
+P059,Sudha Rani,31,Female,Dental,Dr. Suresh Kumar,2023-05-05,New Patient,Dental Caries,500,Telangana,Hyderabad,None,15
+P060,Ranjith Kumar,48,Male,Orthopaedics,Dr. Anil Mehta,2023-05-08,New Patient,Back Pain,600,Andhra Pradesh,Guntur,Private,30
+P061,Vijaya Lakshmi,42,Female,General Medicine,Dr. Priya Reddy,2023-05-09,Follow Up,Diabetes,300,Telangana,Hyderabad,None,20
+P062,Srinivas Rao,37,Male,Cardiology,Dr. Lakshmi Nair,2023-05-10,New Patient,Heart Disease,800,Telangana,Hyderabad,Private,50
+P063,Archana Devi,26,Female,Gynaecology,Dr. Meena Iyer,2023-05-11,Follow Up,Anaemia,700,Telangana,Hyderabad,Government,30
+P064,Chandra Mohan,55,Male,Dental,Dr. Suresh Kumar,2023-05-12,Follow Up,Gum Disease,500,Andhra Pradesh,Vijayawada,None,10
+P065,Saraswathi,49,Female,Orthopaedics,Dr. Anil Mehta,2023-05-15,New Patient,Hip Pain,600,Telangana,Hyderabad,Private,25
+P066,Balaji Reddy,35,Male,General Medicine,Dr. Ravi Shankar,2023-05-16,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P067,Yashodha,58,Female,Cardiology,Dr. Lakshmi Nair,2023-05-17,Follow Up,Heart Disease,800,Karnataka,Mysore,Government,45
+P068,Mohan Das,41,Male,Dental,Dr. Suresh Kumar,2023-05-18,New Patient,Root Canal,500,Telangana,Hyderabad,Private,20
+P069,Bhagya Lakshmi,32,Female,General Medicine,Dr. Priya Reddy,2023-05-19,New Patient,Thyroid,300,Telangana,Hyderabad,None,20
+P070,Narayana Rao,64,Male,Orthopaedics,Dr. Anil Mehta,2023-05-22,Follow Up,Arthritis,600,Andhra Pradesh,Vizag,Government,35
+P071,Kavya Reddy,24,Female,Gynaecology,Dr. Meena Iyer,2023-06-01,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P072,Shiva Kumar,39,Male,General Medicine,Dr. Ravi Shankar,2023-06-02,New Patient,Respiratory,300,Telangana,Hyderabad,None,15
+P073,Padma Rao,53,Female,Cardiology,Dr. Lakshmi Nair,2023-06-05,Follow Up,Hypertension,800,Telangana,Hyderabad,Private,40
+P074,Raju Naik,44,Male,Dental,Dr. Suresh Kumar,2023-06-06,New Patient,Dental Caries,500,Andhra Pradesh,Guntur,None,15
+P075,Indira Devi,36,Female,Orthopaedics,Dr. Anil Mehta,2023-06-07,New Patient,Knee Pain,600,Telangana,Hyderabad,Government,30
+P076,Subrahmanyam,60,Male,Cardiology,Dr. Lakshmi Nair,2023-06-08,Follow Up,Heart Disease,800,Telangana,Hyderabad,None,50
+P077,Ratna Kumari,27,Female,Dental,Dr. Suresh Kumar,2023-06-09,Follow Up,Gum Disease,500,Karnataka,Bangalore,Private,10
+P078,Nagesh Rao,47,Male,General Medicine,Dr. Priya Reddy,2023-06-12,New Patient,Diabetes,300,Telangana,Hyderabad,None,20
+P079,Shanthi Devi,33,Female,Gynaecology,Dr. Meena Iyer,2023-06-13,Follow Up,Anaemia,700,Telangana,Hyderabad,Private,30
+P080,Venu Gopal,50,Male,Orthopaedics,Dr. Anil Mehta,2023-06-14,New Patient,Back Pain,600,Andhra Pradesh,Vijayawada,Government,25
+P081,Sreekanth,28,Male,General Medicine,Dr. Ravi Shankar,2023-07-03,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P082,Rukmini Devi,56,Female,Cardiology,Dr. Lakshmi Nair,2023-07-04,Follow Up,Hypertension,800,Telangana,Hyderabad,Government,40
+P083,Ajay Kumar,34,Male,Dental,Dr. Suresh Kumar,2023-07-05,New Patient,Tooth Extraction,500,Telangana,Hyderabad,Private,10
+P084,Nandini Rao,43,Female,Gynaecology,Dr. Meena Iyer,2023-07-06,New Patient,Routine Checkup,700,Karnataka,Bangalore,None,25
+P085,Tirupathi Rao,57,Male,Orthopaedics,Dr. Anil Mehta,2023-07-07,Follow Up,Hip Pain,600,Telangana,Hyderabad,Government,35
+P086,Saroja Devi,38,Female,General Medicine,Dr. Priya Reddy,2023-07-10,New Patient,Thyroid,300,Andhra Pradesh,Vizag,Private,20
+P087,Krishna Murthy,45,Male,Cardiology,Dr. Lakshmi Nair,2023-07-11,New Patient,Chest Pain,800,Telangana,Hyderabad,None,50
+P088,Pushpa Latha,31,Female,Dental,Dr. Suresh Kumar,2023-07-12,Follow Up,Root Canal,500,Telangana,Hyderabad,Private,20
+P089,Veeraiah,62,Male,General Medicine,Dr. Ravi Shankar,2023-07-13,Follow Up,Diabetes,300,Telangana,Hyderabad,Government,20
+P090,Tulasi Devi,35,Female,Orthopaedics,Dr. Anil Mehta,2023-07-14,New Patient,Arthritis,600,Andhra Pradesh,Guntur,None,30
+P091,Ramakrishna,49,Male,General Medicine,Dr. Priya Reddy,2023-08-01,New Patient,Respiratory,300,Telangana,Hyderabad,Private,15
+P092,Satyavathi,27,Female,Gynaecology,Dr. Meena Iyer,2023-08-02,New Patient,Routine Checkup,700,Telangana,Hyderabad,None,25
+P093,Jagadish Rao,54,Male,Cardiology,Dr. Lakshmi Nair,2023-08-03,Follow Up,Heart Disease,800,Karnataka,Mysore,Government,45
+P094,Latha Kumari,40,Female,Dental,Dr. Suresh Kumar,2023-08-04,New Patient,Dental Caries,500,Telangana,Hyderabad,Private,15
+P095,Balu Naik,33,Male,Orthopaedics,Dr. Anil Mehta,2023-08-07,New Patient,Knee Pain,600,Telangana,Hyderabad,None,30
+P096,Vasumathi,61,Female,General Medicine,Dr. Priya Reddy,2023-08-08,Follow Up,Hypertension,300,Andhra Pradesh,Vijayawada,Government,20
+P097,Sudheer Kumar,36,Male,Cardiology,Dr. Lakshmi Nair,2023-08-09,New Patient,Hypertension,800,Telangana,Hyderabad,Private,40
+P098,Jayalakshmi,44,Female,Dental,Dr. Suresh Kumar,2023-08-10,Follow Up,Gum Disease,500,Telangana,Hyderabad,None,10
+P099,Madhu Sudan,52,Male,General Medicine,Dr. Ravi Shankar,2023-08-11,New Patient,Fever,300,Telangana,Hyderabad,Private,15
+P100,Vijaya Durga,29,Female,Gynaecology,Dr. Meena Iyer,2023-08-14,Follow Up,Anaemia,700,Karnataka,Bangalore,None,30
+P101,Ramesh Naidu,47,Male,Orthopaedics,Dr. Anil Mehta,2023-09-01,New Patient,Back Pain,600,Telangana,Hyderabad,Government,25
+P102,Hemalatha,38,Female,General Medicine,Dr. Priya Reddy,2023-09-04,New Patient,Diabetes,300,Telangana,Hyderabad,Private,20
+P103,Chakravarthy,55,Male,Cardiology,Dr. Lakshmi Nair,2023-09-05,Follow Up,Heart Disease,800,Andhra Pradesh,Vizag,None,50
+P104,Bhavana Devi,32,Female,Dental,Dr. Suresh Kumar,2023-09-06,New Patient,Root Canal,500,Telangana,Hyderabad,Private,20
+P105,Narender Rao,41,Male,General Medicine,Dr. Ravi Shankar,2023-09-07,Follow Up,Respiratory,300,Telangana,Hyderabad,Government,15
+P106,Sarada Devi,58,Female,Gynaecology,Dr. Meena Iyer,2023-09-08,New Patient,Routine Checkup,700,Telangana,Hyderabad,None,25
+P107,Yugandhar,35,Male,Orthopaedics,Dr. Anil Mehta,2023-09-11,New Patient,Hip Pain,600,Karnataka,Bangalore,Private,30
+P108,Naga Lakshmi,46,Female,Cardiology,Dr. Lakshmi Nair,2023-09-12,Follow Up,Hypertension,800,Telangana,Hyderabad,Government,40
+P109,Prakash Rao,30,Male,Dental,Dr. Suresh Kumar,2023-09-13,New Patient,Tooth Extraction,500,Andhra Pradesh,Guntur,None,10
+P110,Kalyani Devi,53,Female,General Medicine,Dr. Priya Reddy,2023-09-14,Follow Up,Thyroid,300,Telangana,Hyderabad,Private,20
+P111,Venkataramana,42,Male,General Medicine,Dr. Ravi Shankar,2023-10-02,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P112,Durga Bhavani,37,Female,Dental,Dr. Suresh Kumar,2023-10-03,Follow Up,Dental Caries,500,Telangana,Hyderabad,Private,15
+P113,Samba Siva Rao,60,Male,Cardiology,Dr. Lakshmi Nair,2023-10-04,Follow Up,Heart Disease,800,Andhra Pradesh,Vijayawada,Government,45
+P114,Annapurna,34,Female,Gynaecology,Dr. Meena Iyer,2023-10-05,New Patient,Anaemia,700,Telangana,Hyderabad,None,30
+P115,Mallikarjun,48,Male,Orthopaedics,Dr. Anil Mehta,2023-10-06,New Patient,Arthritis,600,Telangana,Hyderabad,Private,30
+P116,Sudha Latha,25,Female,General Medicine,Dr. Priya Reddy,2023-10-09,New Patient,Respiratory,300,Karnataka,Mysore,None,15
+P117,Raghavendra,51,Male,Cardiology,Dr. Lakshmi Nair,2023-10-10,New Patient,Chest Pain,800,Telangana,Hyderabad,Private,50
+P118,Kumari Devi,43,Female,Dental,Dr. Suresh Kumar,2023-10-11,Follow Up,Gum Disease,500,Telangana,Hyderabad,Government,10
+P119,Venkat Reddy,39,Male,General Medicine,Dr. Ravi Shankar,2023-10-12,Follow Up,Diabetes,300,Andhra Pradesh,Vizag,None,20
+P120,Mythili,28,Female,Gynaecology,Dr. Meena Iyer,2023-10-13,New Patient,Routine Checkup,700,Telangana,Hyderabad,Private,25
+P121,Govind Rao,56,Male,Orthopaedics,Dr. Anil Mehta,2023-11-01,Follow Up,Knee Pain,600,Telangana,Hyderabad,Government,35
+P122,Ratna Bai,33,Female,General Medicine,Dr. Priya Reddy,2023-11-02,New Patient,Thyroid,300,Telangana,Hyderabad,Private,20
+P123,Satya Narayana,44,Male,Cardiology,Dr. Lakshmi Nair,2023-11-03,Follow Up,Hypertension,800,Andhra Pradesh,Guntur,None,40
+P124,Vijaya Kumari,50,Female,Dental,Dr. Suresh Kumar,2023-11-06,New Patient,Root Canal,500,Telangana,Hyderabad,Private,20
+P125,Pavan Kumar,29,Male,General Medicine,Dr. Ravi Shankar,2023-11-07,New Patient,Fever,300,Telangana,Hyderabad,None,15
+P126,Saraswathi Devi,57,Female,Gynaecology,Dr. Meena Iyer,2023-11-08,Follow Up,Anaemia,700,Karnataka,Bangalore,Government,30
+P127,Narasimha Rao,63,Male,Cardiology,Dr. Lakshmi Nair,2023-11-09,Follow Up,Heart Disease,800,Telangana,Hyderabad,None,50
+P128,Manga Devi,36,Female,Orthopaedics,Dr. Anil Mehta,2023-11-10,New Patient,Back Pain,600,Telangana,Hyderabad,Private,25
+P129,Rajendra Prasad,41,Male,General Medicine,Dr. Priya Reddy,2023-11-13,New Patient,Diabetes,300,Andhra Pradesh,Vijayawada,None,20
+P130,Bhagyamma,48,Female,Dental,Dr. Suresh Kumar,2023-11-14,Follow Up,Dental Caries,500,Telangana,Hyderabad,Government,15
+P131,Vamsi Krishna,26,Male,General Medicine,Dr. Ravi Shankar,2023-12-01,New Patient,Respiratory,300,Telangana,Hyderabad,Private,15
+P132,Naga Veni,39,Female,Gynaecology,Dr. Meena Iyer,2023-12-04,New Patient,Routine Checkup,700,Telangana,Hyderabad,None,25
+P133,Seshagiri Rao,52,Male,Cardiology,Dr. Lakshmi Nair,2023-12-05,Follow Up,Hypertension,800,Telangana,Hyderabad,Government,40
+P134,Pavani Devi,31,Female,Dental,Dr. Suresh Kumar,2023-12-06,New Patient,Tooth Extraction,500,Karnataka,Bangalore,Private,10
+P135,Hanumantha Rao,45,Male,Orthopaedics,Dr. Anil Mehta,2023-12-07,New Patient,Hip Pain,600,Andhra Pradesh,Vizag,None,30
+P136,Sarojini,37,Female,General Medicine,Dr. Priya Reddy,2023-12-08,Follow Up,Thyroid,300,Telangana,Hyderabad,Private,20
+P137,Murali Krishna,54,Male,Cardiology,Dr. Lakshmi Nair,2023-12-11,New Patient,Chest Pain,800,Telangana,Hyderabad,None,50
+P138,Vasavi Devi,28,Female,Dental,Dr. Suresh Kumar,2023-12-12,Follow Up,Gum Disease,500,Telangana,Hyderabad,Government,10
+P139,Suryanarayana,61,Male,General Medicine,Dr. Ravi Shankar,2023-12-13,Follow Up,Diabetes,300,Andhra Pradesh,Guntur,None,20
+P140,Padma Priya,34,Female,Gynaecology,Dr. Meena Iyer,2023-12-14,New Patient,Anaemia,700,Telangana,Hyderabad,Private,30
+P141,Ramana Murthy,43,Male,Orthopaedics,Dr. Anil Mehta,2023-12-15,Follow Up,Arthritis,600,Telangana,Hyderabad,Government,35
+P142,Kameshwari,55,Female,General Medicine,Dr. Priya Reddy,2023-12-18,New Patient,Hypertension,300,Karnataka,Mysore,Private,20
+P143,Yadagiri Rao,38,Male,Cardiology,Dr. Lakshmi Nair,2023-12-19,Follow Up,Heart Disease,800,Telangana,Hyderabad,None,45
+P144,Swarupa Rani,46,Female,Dental,Dr. Suresh Kumar,2023-12-20,New Patient,Root Canal,500,Andhra Pradesh,Vijayawada,None,20
+P145,Chinna Rao,32,Male,General Medicine,Dr. Ravi Shankar,2023-12-21,New Patient,Fever,300,Telangana,Hyderabad,Private,15
