@@ -22,5 +22,5 @@ patient flow and resource allocation.
 - Data modeling
 
 ## Dashboard Preview
-![Dashboard Page 1](dashboard_page1.png)
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 1](dashboard_page1.jpg)
+![Dashboard Page 2](dashboard_page2.jpg)
